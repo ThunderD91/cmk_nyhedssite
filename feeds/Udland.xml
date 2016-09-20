@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Udland</title>
+    <description>Nyheder fra det store udland</description>
+    <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=categories&amp;category_id=4</link>
+    <item>
+      <title>Aliquam scelerisque</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=4&amp;news_id=3</link>
+      <guid>Aliquam scelerisque - 3</guid>
+      <description>Pellentesque eu nulla gravida, lobortis velit ac, rhoncus sapien. Sed vel ligula sem. Morbi sed est et risus gravida ullamcorper. Aliquam scelerisque magna nulla, vitae sodales libero interdum eget. Maecenas sed magna euismod, fringilla risus et, fringilla orci. Integer vel odio augue. Curabitur pretium sapien et egestas elementum. Vivamus tincidunt justo luctus, malesuada odio semper, ultricies lorem. Fusce volutpat dapibus ultrices.</description>
+    </item>
+    <item>
+      <title>Donec quam tortor</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=4&amp;news_id=8</link>
+      <guid>Donec quam tortor - 8</guid>
+      <description>Suspendisse fermentum dui nec posuere dictum. Donec posuere faucibus placerat. Ut a fermentum lorem, sit amet laoreet metus. Aliquam rutrum urna vitae velit porttitor sodales. Donec quam tortor, mattis ut tortor eu, posuere malesuada erat. Donec in tortor sit amet lacus tempor venenatis. Donec sit amet tortor vitae magna gravida dictum. Sed vitae facilisis nisi, nec egestas ligula. Donec volutpat porta cursus. Nullam porta dignissim cursus. Etiam vel magna elit.</description>
+    </item>
+    <item>
+      <title>Aenean ornare ligula porttitor ante sagittis</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=4&amp;news_id=15</link>
+      <guid>Aenean ornare ligula porttitor ante sagittis - 15</guid>
+      <description>Fusce elementum diam consectetur nulla dictum, non consequat nibh eleifend. Aenean ornare ligula porttitor ante sagittis, sed adipiscing dolor pulvinar. Duis turpis neque, adipiscing vel elit et, pellentesque consectetur elit. Quisque pellentesque scelerisque mi, sed dignissim dolor dictum ac. Sed a risus placerat, semper mi blandit, accumsan nulla. Duis non egestas turpis, ac convallis mauris. Etiam non est at nisl tincidunt accumsan. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Integer euismod purus non risus sollicitudin, ut feugiat arcu tempus.</description>
+    </item>
+    <item>
+      <title>Suspendisse nibh diam</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=4&amp;news_id=23</link>
+      <guid>Suspendisse nibh diam - 23</guid>
+      <description>Ut eget tortor vitae ante aliquet imperdiet. Sed sit amet felis sed justo posuere tincidunt. Suspendisse nibh diam, cursus vitae leo ut, porttitor feugiat lorem. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam vitae nisi urna. Sed blandit consequat viverra. Sed vel pharetra diam.</description>
+    </item>
+    <item>
+      <title>Praesent vitae elit</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=4&amp;news_id=24</link>
+      <guid>Praesent vitae elit - 24</guid>
+      <description>Mauris scelerisque leo pretium dolor gravida porttitor. Praesent vitae elit massa. Vestibulum tristique, magna ut ultrices aliquam, quam velit dignissim turpis, eu elementum tellus augue quis nunc. Nulla facilisi. Nam aliquet at purus a commodo. Praesent tristique, nunc vitae malesuada dapibus, lorem dolor fringilla elit, ut facilisis ligula ipsum nec enim. Pellentesque blandit faucibus libero vel mollis. Fusce aliquet tristique sem vitae consequat. Sed eget dignissim tellus, sit amet eleifend nisl. Ut eleifend ut augue et ullamcorper. Nulla ipsum justo, cursus quis interdum vel, viverra in turpis. Praesent at interdum tortor. Etiam et rutrum elit. Praesent ac leo vel nisi scelerisque dictum. Suspendisse auctor pellentesque pulvinar.</description>
+    </item>
+    <item>
+      <title>Fusce laoreet egestas</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=4&amp;news_id=25</link>
+      <guid>Fusce laoreet egestas - 25</guid>
+      <description>Curabitur a libero lorem. Vivamus id tempus sem. Sed eu nulla turpis. Etiam et commodo mi, nec interdum ipsum. Quisque vulputate, lectus quis feugiat vulputate, metus mi venenatis metus, vel semper mauris lorem vitae leo. Fusce laoreet egestas iaculis. Vestibulum ac vehicula ante, et commodo nunc. Nunc porta convallis velit, quis suscipit ante. Phasellus non mi vitae nulla ornare consectetur sed et risus. Integer elementum sed metus ac sodales. Aenean semper, lectus vitae elementum commodo, metus massa sagittis metus, at adipiscing diam erat non nunc. Nulla placerat nibh id eros feugiat feugiat. Phasellus turpis justo, rutrum porttitor diam at, interdum laoreet augue.</description>
+    </item>
+    <item>
+      <title>Etiam et commodo mi</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=4&amp;news_id=35</link>
+      <guid>Etiam et commodo mi - 35</guid>
+      <description>Pellentesque eu nulla gravida, lobortis velit ac, rhoncus sapien. Sed vel ligula sem. Morbi sed est et risus gravida ullamcorper. Aliquam scelerisque magna nulla, vitae sodales libero interdum eget. Maecenas sed magna euismod, fringilla risus et, fringilla orci. Integer vel odio augue. Curabitur pretium sapien et egestas elementum. Vivamus tincidunt justo luctus, malesuada odio semper, ultricies lorem. Fusce volutpat dapibus ultrices.</description>
+    </item>
+  </channel>
+</rss>

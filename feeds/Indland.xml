@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Indland</title>
+    <description>Dette er indlands nyhederne</description>
+    <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=categories&amp;category_id=1</link>
+    <item>
+      <title>Vivamus posuere mattis sagittis. </title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=1&amp;news_id=1</link>
+      <guid>Vivamus posuere mattis sagittis.  - 1</guid>
+      <description>Sed viverra dolor nec pellentesque volutpat. Praesent vehicula magna et ligula varius consectetur. In sed turpis sed nunc rutrum bibendum. In dapibus aliquet arcu sed tincidunt. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut eget facilisis ipsum. Nullam sodales nisi urna, in condimentum quam ornare at. Mauris eleifend facilisis risus eu dignissim. Quisque viverra ante non pellentesque sollicitudin. Sed sit amet lectus ac lectus molestie consequat. Aliquam euismod arcu nec sem tempor consequat. Mauris rhoncus aliquam imperdiet.</description>
+    </item>
+    <item>
+      <title>Aenean tincidunt gravida orci</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=1&amp;news_id=4</link>
+      <guid>Aenean tincidunt gravida orci - 4</guid>
+      <description>Duis mattis eget nulla nec tincidunt. In hac habitasse platea dictumst. Aenean tincidunt gravida orci, vitae ultricies ante molestie at. Duis varius eleifend mollis. Aliquam a lacinia tortor. Sed ut tellus a lacus tempus aliquet sit amet id tortor. Vestibulum quis molestie ante, sit amet rhoncus erat. Cras velit nulla, condimentum sed volutpat eget, hendrerit non enim. Mauris nec pulvinar purus. Nam vitae tincidunt leo. Maecenas non arcu a velit suscipit porta.</description>
+    </item>
+    <item>
+      <title>Vestibulum commodo</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=1&amp;news_id=5</link>
+      <guid>Vestibulum commodo - 5</guid>
+      <description>Nunc sed lectus et eros consequat ullamcorper. Fusce at risus tempor magna sodales iaculis. Aliquam hendrerit sapien lectus, at rutrum lectus hendrerit ac. Nam vitae magna quis eros porta tristique. Vestibulum commodo, sapien vel pulvinar pellentesque, mi lorem pulvinar arcu, sed dictum ligula ipsum ac diam. Nam quis euismod nibh. Duis justo lacus, faucibus eget pellentesque sed, dignissim sed ligula. Nunc eleifend cursus dui, vitae mollis metus fringilla sed. Nunc vitae orci non dui ornare convallis. Phasellus iaculis id ligula non pretium. Morbi quis sagittis urna, id sodales mi. Suspendisse sed metus non nisi volutpat iaculis vitae a neque. Donec lacinia porta interdum. Fusce sodales elit eu rhoncus fringilla. In venenatis massa id sem sagittis, nec molestie neque lobortis.</description>
+    </item>
+    <item>
+      <title>Nulla mattis lorem sit amet</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=1&amp;news_id=9</link>
+      <guid>Nulla mattis lorem sit amet - 9</guid>
+      <description>Fusce ac tempus nisi. Maecenas viverra iaculis est ut gravida. In bibendum pulvinar nunc at pretium. Nulla mattis lorem sit amet leo imperdiet consectetur. Duis et varius magna. Aenean enim diam, feugiat laoreet justo ac, hendrerit lacinia nulla. Sed vestibulum ornare consectetur. Sed vitae nibh eu leo porta malesuada in non neque. Nam augue velit, commodo quis urna nec, vestibulum pharetra erat. Vestibulum ac scelerisque arcu, sed ornare sapien. Ut sed erat felis. Fusce ipsum magna, scelerisque iaculis mattis eu, luctus at est. Etiam quam enim, consequat accumsan metus ut, lacinia vulputate ante. Nullam purus leo, semper vitae libero vitae, viverra consectetur lorem. Integer iaculis ac felis eget imperdiet. Etiam tincidunt aliquam quam, vel tristique lectus.</description>
+    </item>
+    <item>
+      <title>Donec bibendum vitae nunc eu dictum</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=1&amp;news_id=10</link>
+      <guid>Donec bibendum vitae nunc eu dictum - 10</guid>
+      <description>Morbi sit amet porttitor diam. Donec bibendum vitae nunc eu dictum. In vel elit orci. Donec placerat interdum leo vitae porttitor. Nam eu arcu libero. Proin purus massa, imperdiet ac velit quis, pretium cursus diam. Nullam mi nulla, pulvinar eget felis ac, cursus convallis dolor. Phasellus varius fermentum aliquam. Suspendisse sodales ultrices feugiat. Vestibulum eu risus blandit dolor dictum consectetur in in magna. Proin nec dictum erat.</description>
+    </item>
+    <item>
+      <title>Nam et semper turpi</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=1&amp;news_id=13</link>
+      <guid>Nam et semper turpi - 13</guid>
+      <description>Fusce luctus ac augue a hendrerit. Nam et semper turpis. Donec vehicula magna dui. Donec sit amet nibh a purus bibendum feugiat. Maecenas condimentum velit ut eros ultrices consequat. Curabitur aliquet convallis mi quis imperdiet. Integer sodales ut felis et sagittis. Vivamus convallis felis nunc, ut vestibulum mi pulvinar eget. Proin condimentum quam ac felis fringilla volutpat. Suspendisse elementum purus ac tempor mollis. Nam vulputate et mauris ut laoreet. Vivamus ornare risus sem, in hendrerit velit volutpat et. In elementum est iaculis scelerisque mattis. Vivamus pharetra, eros in imperdiet venenatis, eros ipsum pellentesque mauris, eu cursus turpis augue vel erat.</description>
+    </item>
+  </channel>
+</rss>

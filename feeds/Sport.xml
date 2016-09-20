@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Sport</title>
+    <description>Her kommer alle sports nyhederne</description>
+    <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=categories&amp;category_id=2</link>
+    <item>
+      <title>Pellentesque euismod</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=2&amp;news_id=2</link>
+      <guid>Pellentesque euismod - 2</guid>
+      <description>Sed tristique pulvinar lacus, ac lacinia tortor mollis vel. Pellentesque euismod, diam sit amet dapibus euismod, nunc lectus feugiat tellus, nec eleifend augue arcu eget justo. Vivamus lacus ligula, mollis vitae accumsan at, fermentum eu diam. Aliquam et libero enim. Integer sollicitudin non nibh et convallis. Donec tincidunt cursus mi faucibus placerat. Mauris ultricies posuere fringilla. In hac habitasse platea dictumst.</description>
+    </item>
+    <item>
+      <title>Quisque at orci sed</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=2&amp;news_id=14</link>
+      <guid>Quisque at orci sed - 14</guid>
+      <description>Quisque at orci sed nulla congue elementum. Maecenas pharetra arcu a elementum malesuada. Sed vehicula est ut neque eleifend, pulvinar laoreet nisi vestibulum. Vivamus interdum ipsum tellus, et convallis sem rutrum eu. Nulla id leo vitae est posuere pharetra et nec nunc. Proin sagittis nec nulla in volutpat. Ut facilisis mi vel leo mattis, a porta sem interdum. Nulla malesuada ornare massa. Proin sapien mauris, lacinia ut porta nec, dignissim eget tortor. In et ornare ligula.</description>
+    </item>
+    <item>
+      <title>Duis faucibus quam</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=2&amp;news_id=16</link>
+      <guid>Duis faucibus quam - 16</guid>
+      <description>Vestibulum vestibulum orci dui, non pulvinar neque imperdiet quis. Duis faucibus quam metus. Integer libero sem, ultrices nec molestie eu, eleifend et quam. Nulla aliquet ligula turpis, vitae rhoncus ligula scelerisque quis. Morbi eget adipiscing tortor. Donec nec lorem non lorem consectetur commodo non et metus. Pellentesque commodo arcu ut est mollis auctor.</description>
+    </item>
+    <item>
+      <title> Phasellus tincidunt metus</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=2&amp;news_id=17</link>
+      <guid> Phasellus tincidunt metus - 17</guid>
+      <description>Pellentesque ornare sem non convallis sagittis. Duis auctor eget augue ac vulputate. Phasellus tincidunt metus quis elit molestie, et varius enim varius. In ut commodo nisl. Praesent semper mi sed consectetur sagittis. Pellentesque vehicula quis erat quis sollicitudin. Ut luctus libero sed sodales blandit. Suspendisse id interdum sem, id sagittis nunc. Suspendisse porttitor aliquet justo, sollicitudin ultricies enim dapibus sed. Morbi ut lorem interdum, tempus eros eu, congue dolor. Nulla et euismod lacus. Vestibulum a mollis ante. Etiam accumsan tempor nibh nec tincidunt.</description>
+    </item>
+    <item>
+      <title>Integer sagittis</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=2&amp;news_id=18</link>
+      <guid>Integer sagittis - 18</guid>
+      <description>Integer sagittis, erat at faucibus placerat, massa nunc euismod ante, nec vehicula elit nisi sed diam. Morbi quis erat arcu. Nunc aliquet mi a blandit tincidunt. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas vehicula consequat metus et scelerisque. Vivamus congue, ligula venenatis laoreet bibendum, magna tellus cursus enim, nec eleifend dolor risus in mi. Aliquam mattis enim eget tellus pretium feugiat. Maecenas dapibus nulla nec urna commodo tristique. Praesent semper consectetur sapien eu scelerisque. Nam auctor dictum dolor eget ultricies.</description>
+    </item>
+    <item>
+      <title>Aenean aliquam tincidunt</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=2&amp;news_id=20</link>
+      <guid>Aenean aliquam tincidunt - 20</guid>
+      <description>Etiam egestas risus eleifend sodales iaculis. Aenean sollicitudin nunc eget urna molestie euismod. Aenean aliquam tincidunt tempor. Vivamus imperdiet feugiat nisi, a posuere eros viverra eget. Ut sodales, velit lacinia varius cursus, arcu enim ullamcorper est, nec ultrices orci dolor at neque. Nullam tempus ullamcorper eleifend. Suspendisse tincidunt vestibulum urna, adipiscing commodo arcu auctor at. Cras euismod rhoncus lorem ac euismod.</description>
+    </item>
+    <item>
+      <title>Nam elit dui</title>
+      <link>http://localhost/hoved_p2/nco_cmk_php_nyhedssite/index.php?page=news&amp;category_id=2&amp;news_id=22</link>
+      <guid>Nam elit dui - 22</guid>
+      <description>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam elit dui, laoreet quis blandit id, interdum nec diam. Aliquam commodo vehicula ultrices. Quisque ac turpis erat. Nullam iaculis, elit elementum ornare hendrerit, ipsum risus lobortis dui, ut pharetra ipsum lacus a libero. Quisque vehicula lectus lorem, at consectetur neque semper nec. Maecenas aliquet adipiscing velit eu ullamcorper. Fusce facilisis risus ac turpis dictum, vel aliquam risus porttitor. Pellentesque libero arcu, posuere quis condimentum ac, blandit vel tortor. Nulla facilisi. Nullam tincidunt neque magna, at malesuada erat rhoncus at.</description>
+    </item>
+  </channel>
+</rss>
